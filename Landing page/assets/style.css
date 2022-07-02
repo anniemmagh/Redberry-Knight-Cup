@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:  #FD5334;
+    width:  1920px;
+    height: 1080px;
+}
+h2 {
+    position: absolute;
+width: 400.82px;
+height: 222.35px;
+left: 41.93px;
+top: 20px;
+color: #FFFFFF;;
+}
+.logo {
+ position: absolute;
+left:-5%;
+top: 5.75%;
+
+}
+.chess {
+    position: relative;
+width: 923px;
+height: 1196px;
+left: 0px;
+top: 0px;
+}
+p{
+    /* font-style: normal;
+    font-weight: bold;
+    color: white;
+    font-size: 40px; */
+    position: absolute;
+width: 706px;
+height: 100px;
+left: 950px;
+top: 205px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 109px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
